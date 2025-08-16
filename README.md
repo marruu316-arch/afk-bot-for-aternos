@@ -6,8 +6,8 @@ First of all you need to change the ip in [config file](https://github.com/krush
 **Don't change the port**, you may change the rest of the stuff
 ```
 {
-	"ip":"yourip.aternos.me",
-	"port": "25565",
+	"ip":"yourip.MarRuu8280.aternos.me",
+	"port": "37596",
 	"name": "afk bot"
 }
 
@@ -22,7 +22,7 @@ If everything goes correct, this is what you should see in the console
 ### **Important note:**
 The bot is capable of joining 1.16.5 servers only.
 If your server version is not 1.16.5 then add the following plugins:
-- Viaversion
+- Viaversion 1.21.80.3
 - Viarewind
 > Others:
 - If your server has login plugins, kindly whitelist the bot from that.
